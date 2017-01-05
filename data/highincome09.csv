@@ -1,0 +1,567 @@
+census2010,GEOdisplaylabel,moe,highmoe,income
+3400100100,"Absecon city, Atlantic County, New Jersey",8184,"$69,782 ",
+3400102080,"Atlantic City city, Atlantic County, New Jersey",1999,"$30,601 ",
+3400107810,"Brigantine city, Atlantic County, New Jersey",6568,"$64,375 ",
+3400108680,"Buena borough, Atlantic County, New Jersey",5781,"$54,695 ",
+3400108710,"Buena Vista township, Atlantic County, New Jersey",7081,"$55,541 ",
+3400115160,"Corbin City city, Atlantic County, New Jersey",9140,"$70,694 ",
+3400120290,"Egg Harbor township, Atlantic County, New Jersey",3115,"$68,596 ",
+3400120350,"Egg Harbor City city, Atlantic County, New Jersey",9184,N/A,
+3400121870,"Estell Manor city, Atlantic County, New Jersey",4826,"$73,611 ",
+3400123940,"Folsom borough, Atlantic County, New Jersey",6938,"$71,207 ",
+3400125560,"Galloway township, Atlantic County, New Jersey",3649,"$64,566 ",
+3400129280,"Hamilton township, Atlantic County, New Jersey",3594,"$56,985 ",
+3400129430,"Hammonton town, Atlantic County, New Jersey",8480,"$57,303 ",
+3400140530,"Linwood city, Atlantic County, New Jersey",11777,"$83,879 ",
+3400141370,"Longport borough, Atlantic County, New Jersey",11254,"$83,000 ",
+3400143890,"Margate City city, Atlantic County, New Jersey",7020,"$67,958 ",
+3400149410,"Mullica township, Atlantic County, New Jersey",11846,N/A,
+3400152950,"Northfield city, Atlantic County, New Jersey",5526,"$68,913 ",
+3400159640,"Pleasantville city, Atlantic County, New Jersey",5136,"$39,806 ",
+3400160600,"Port Republic city, Atlantic County, New Jersey",15248,N/A,
+3400168430,"Somers Point city, Atlantic County, New Jersey",4912,"$49,620 ",
+3400175620,"Ventnor City city, Atlantic County, New Jersey",4486,"$53,806 ",
+3400180330,"Weymouth township, Atlantic County, New Jersey",8113,N/A,
+3400300700,"Allendale borough, Bergen County, New Jersey",21038,N/A,127757
+3400301090,"Alpine borough, Bergen County, New Jersey",25587,N/A,167917
+3400305170,"Bergenfield borough, Bergen County, New Jersey",7458,"$81,324 ",
+3400306490,"Bogota borough, Bergen County, New Jersey",11080,"$73,911 ",
+3400310480,"Carlstadt borough, Bergen County, New Jersey",8414,"$63,903 ",
+3400313570,"Cliffside Park borough, Bergen County, New Jersey",7697,"$68,287 ",
+3400313810,"Closter borough, Bergen County, New Jersey",10494,"$115,882 ",115882
+3400315820,"Cresskill borough, Bergen County, New Jersey",18579,N/A,111786
+3400317530,"Demarest borough, Bergen County, New Jersey",18666,"$145,087 ",145087
+3400318400,"Dumont borough, Bergen County, New Jersey",4956,"$82,606 ",
+3400319510,"East Rutherford borough, Bergen County, New Jersey",4259,"$64,613 ",
+3400320020,"Edgewater borough, Bergen County, New Jersey",11947,"$82,047 ",
+3400321300,"Elmwood Park borough, Bergen County, New Jersey",5569,"$62,886 ",
+3400321450,"Emerson borough, Bergen County, New Jersey",11883,"$96,341 ",96341
+3400321480,"Englewood city, Bergen County, New Jersey",5382,"$70,357 ",
+3400321510,"Englewood Cliffs borough, Bergen County, New Jersey",34202,N/A,112292
+3400322470,"Fair Lawn borough, Bergen County, New Jersey",3788,"$90,992 ",
+3400322560,"Fairview borough, Bergen County, New Jersey",4389,"$41,418 ",
+3400324420,"Fort Lee borough, Bergen County, New Jersey",4405,"$72,425 ",
+3400324990,"Franklin Lakes borough, Bergen County, New Jersey",23316,N/A,154018
+3400325770,"Garfield city, Bergen County, New Jersey",2615,"$50,917 ",
+3400326640,"Glen Rock borough, Bergen County, New Jersey",8002,"$138,864 ",138864
+3400328680,"Hackensack city, Bergen County, New Jersey",2693,"$59,835 ",
+3400330150,"Harrington Park borough, Bergen County, New Jersey",23407,N/A,119514
+3400330420,"Hasbrouck Heights borough, Bergen County, New Jersey",7237,"$87,806 ",
+3400330540,"Haworth borough, Bergen County, New Jersey",19647,"$134,228 ",134228
+3400331920,"Hillsdale borough, Bergen County, New Jersey",8843,"$121,406 ",121406
+3400332310,"Ho-Ho-Kus borough, Bergen County, New Jersey",13576,"$157,656 ",157656
+3400340020,"Leonia borough, Bergen County, New Jersey",9319,"$68,206 ",
+3400340680,"Little Ferry borough, Bergen County, New Jersey",6032,"$59,551 ",
+3400341100,"Lodi borough, Bergen County, New Jersey",4022,"$54,652 ",
+3400342090,"Lyndhurst township, Bergen County, New Jersey",7724,"$70,591 ",
+3400342750,"Mahwah township, Bergen County, New Jersey",6163,"$98,430 ",98430
+3400344880,"Maywood borough, Bergen County, New Jersey",4886,"$83,065 ",
+3400346110,"Midland Park borough, Bergen County, New Jersey",9252,"$86,920 ",
+3400347610,"Montvale borough, Bergen County, New Jersey",10943,"$109,921 ",109921
+3400347700,"Moonachie borough, Bergen County, New Jersey",7983,N/A,
+3400351660,"New Milford borough, Bergen County, New Jersey",5967,"$73,729 ",
+3400352320,"North Arlington borough, Bergen County, New Jersey",6974,"$71,914 ",
+3400353430,"Northvale borough, Bergen County, New Jersey",16980,N/A,
+3400353610,"Norwood borough, Bergen County, New Jersey",15565,N/A,
+3400353850,"Oakland borough, Bergen County, New Jersey",3579,"$110,479 ",110479
+3400354870,"Old Tappan borough, Bergen County, New Jersey",22993,N/A,120625
+3400354990,"Oradell borough, Bergen County, New Jersey",15949,"$119,365 ",119365
+3400355770,"Palisades Park borough, Bergen County, New Jersey",5581,"$62,303 ",
+3400355950,"Paramus borough, Bergen County, New Jersey",9209,"$102,847 ",102847
+3400356130,"Park Ridge borough, Bergen County, New Jersey",8140,"$101,583 ",101583
+3400361680,"Ramsey borough, Bergen County, New Jersey",8473,"$118,037 ",118037
+3400362910,"Ridgefield borough, Bergen County, New Jersey",12786,N/A,
+3400362940,"Ridgefield Park village, Bergen County, New Jersey",6054,"$62,433 ",
+3400363000,"Ridgewood village, Bergen County, New Jersey",9829,"$138,827 ",138827
+3400363360,"River Edge borough, Bergen County, New Jersey",8666,"$91,829 ",
+3400363690,"River Vale township, Bergen County, New Jersey",9830,"$113,734 ",113734
+3400363990,"Rochelle Park township, Bergen County, New Jersey",11838,N/A,
+3400364170,"Rockleigh borough, Bergen County, New Jersey",66309,N/A,135833
+3400365280,"Rutherford borough, Bergen County, New Jersey",2369,"$86,423 ",
+3400365340,"Saddle Brook township, Bergen County, New Jersey",7120,"$83,396 ",
+3400365400,"Saddle River borough, Bergen County, New Jersey",61769,N/A,112380
+3400368970,"South Hackensack township, Bergen County, New Jersey",7174,"$64,522 ",
+3400372360,"Teaneck township, Bergen County, New Jersey",5285,"$93,349 ",
+3400372420,"Tenafly borough, Bergen County, New Jersey",24796,N/A,116359
+3400372480,"Teterboro borough, Bergen County, New Jersey",107391,N/A,
+3400375140,"Upper Saddle River borough, Bergen County, New Jersey",20618,"$162,679 ",162679
+3400376400,"Waldwick borough, Bergen County, New Jersey",7799,"$90,083 ",
+3400376490,"Wallington borough, Bergen County, New Jersey",3037,"$56,859 ",
+3400377135,"Washington township, Bergen County, New Jersey",13220,"$101,610 ",101610
+3400380270,"Westwood borough, Bergen County, New Jersey",6559,"$76,891 ",
+3400382300,"Woodcliff Lake borough, Bergen County, New Jersey",29966,N/A,150972
+3400382570,"Wood-Ridge borough, Bergen County, New Jersey",3786,"$89,629 ",
+3400383050,"Wyckoff township, Bergen County, New Jersey",3589,"$138,373 ",138373
+3400503370,"Bass River township, Burlington County, New Jersey",11874,N/A,
+3400505740,"Beverly city, Burlington County, New Jersey",9717,N/A,
+3400506670,"Bordentown city, Burlington County, New Jersey",14042,N/A,
+3400506700,"Bordentown township, Burlington County, New Jersey",4846,"$83,486 ",
+3400508920,"Burlington city, Burlington County, New Jersey",3604,"$48,379 ",
+3400508950,"Burlington township, Burlington County, New Jersey",2823,"$84,087 ",
+3400512670,"Chesterfield township, Burlington County, New Jersey",11528,"$111,607 ",111607
+3400512940,"Cinnaminson township, Burlington County, New Jersey",5136,"$88,239 ",
+3400517080,"Delanco township, Burlington County, New Jersey",8613,"$75,167 ",
+3400517440,"Delran township, Burlington County, New Jersey",3428,"$74,247 ",
+3400518790,"Eastampton township, Burlington County, New Jersey",12299,N/A,
+3400520050,"Edgewater Park township, Burlington County, New Jersey",4574,"$55,233 ",
+3400522110,"Evesham township, Burlington County, New Jersey",3068,"$87,616 ",
+3400523250,"Fieldsboro borough, Burlington County, New Jersey",10348,N/A,
+3400523850,"Florence township, Burlington County, New Jersey",3219,"$73,789 ",
+3400529010,"Hainesport township, Burlington County, New Jersey",6886,"$79,506 ",
+3400542060,"Lumberton township, Burlington County, New Jersey",6233,"$76,631 ",
+3400543290,"Mansfield township, Burlington County, New Jersey",8116,"$74,209 ",
+3400543740,"Maple Shade township, Burlington County, New Jersey",2651,"$49,860 ",
+3400545120,"Medford township, Burlington County, New Jersey",4507,"$104,338 ",104338
+3400545210,"Medford Lakes borough, Burlington County, New Jersey",13564,N/A,
+3400547880,"Moorestown township, Burlington County, New Jersey",8093,"$108,995 ",108995
+3400548900,"Mount Holly township, Burlington County, New Jersey",4159,"$51,261 ",
+3400549020,"Mount Laurel township, Burlington County, New Jersey",3838,"$80,457 ",
+3400551510,"New Hanover township, Burlington County, New Jersey",12335,N/A,
+3400553070,"North Hanover township, Burlington County, New Jersey",6416,"$62,225 ",
+3400555800,"Palmyra borough, Burlington County, New Jersey",6145,"$61,844 ",
+3400557480,"Pemberton borough, Burlington County, New Jersey",8951,"$63,750 ",
+3400557510,"Pemberton township, Burlington County, New Jersey",3093,"$63,188 ",
+3400563510,"Riverside township, Burlington County, New Jersey",6030,"$59,345 ",
+3400563660,"Riverton borough, Burlington County, New Jersey",6665,"$90,223 ",
+3400566810,"Shamong township, Burlington County, New Jersey",7564,"$102,366 ",102366
+3400568610,"Southampton township, Burlington County, New Jersey",4226,"$52,604 ",
+3400569990,"Springfield township, Burlington County, New Jersey",10623,"$96,635 ",96635
+3400572060,"Tabernacle township, Burlington County, New Jersey",11091,"$87,125 ",
+3400577150,"Washington township, Burlington County, New Jersey",7516,"$77,656 ",
+3400578200,"Westampton township, Burlington County, New Jersey",10136,"$90,221 ",
+3400581440,"Willingboro township, Burlington County, New Jersey",4804,"$64,581 ",
+3400582420,"Woodland township, Burlington County, New Jersey",11988,N/A,
+3400582960,"Wrightstown borough, Burlington County, New Jersey",11981,N/A,
+3400702200,"Audubon borough, Camden County, New Jersey",5538,"$68,859 ",
+3400702230,"Audubon Park borough, Camden County, New Jersey",7276,N/A,
+3400703250,"Barrington borough, Camden County, New Jersey",6763,"$53,714 ",
+3400704750,"Bellmawr borough, Camden County, New Jersey",2646,"$55,932 ",
+3400705440,"Berlin borough, Camden County, New Jersey",7421,"$70,136 ",
+3400705470,"Berlin township, Camden County, New Jersey",9799,N/A,
+3400708170,"Brooklawn borough, Camden County, New Jersey",3140,"$56,706 ",
+3400710000,"Camden city, Camden County, New Jersey",1211,"$25,418 ",
+3400712280,"Cherry Hill township, Camden County, New Jersey",3370,"$87,392 ",
+3400712550,"Chesilhurst borough, Camden County, New Jersey",8904,N/A,
+3400713420,"Clementon borough, Camden County, New Jersey",8676,N/A,
+3400714260,"Collingswood borough, Camden County, New Jersey",3495,"$56,751 ",
+3400726070,"Gibbsboro borough, Camden County, New Jersey",8087,"$77,879 ",
+3400726760,"Gloucester township, Camden County, New Jersey",2851,"$70,077 ",
+3400726820,"Gloucester City city, Camden County, New Jersey",4371,"$47,011 ",
+3400728740,"Haddon township, Camden County, New Jersey",6725,"$71,546 ",
+3400728770,"Haddonfield borough, Camden County, New Jersey",10282,"$109,259 ",109259
+3400728800,"Haddon Heights borough, Camden County, New Jersey",9432,"$79,392 ",
+3400732220,"Hi-Nella borough, Camden County, New Jersey",7152,N/A,
+3400739210,"Laurel Springs borough, Camden County, New Jersey",8917,"$62,083 ",
+3400739420,"Lawnside borough, Camden County, New Jersey",6209,"$52,778 ",
+3400740440,"Lindenwold borough, Camden County, New Jersey",3275,"$47,180 ",
+3400742630,"Magnolia borough, Camden County, New Jersey",3176,"$57,375 ",
+3400745510,"Merchantville borough, Camden County, New Jersey",12146,N/A,
+3400748750,"Mount Ephraim borough, Camden County, New Jersey",5516,"$58,771 ",
+3400753880,"Oaklyn borough, Camden County, New Jersey",6732,"$60,704 ",
+3400757660,"Pennsauken township, Camden County, New Jersey",2698,"$59,589 ",
+3400758770,"Pine Hill borough, Camden County, New Jersey",3566,"$53,799 ",
+3400758920,"Pine Valley borough, Camden County, New Jersey",43758,N/A,
+3400765160,"Runnemede borough, Camden County, New Jersey",4924,"$54,323 ",
+3400768340,"Somerdale borough, Camden County, New Jersey",4176,"$65,975 ",
+3400771220,"Stratford borough, Camden County, New Jersey",6029,"$62,232 ",
+3400772240,"Tavistock borough, Camden County, New Jersey",78987,N/A,133906
+3400776220,"Voorhees township, Camden County, New Jersey",5485,"$84,869 ",
+3400777630,"Waterford township, Camden County, New Jersey",9045,"$75,806 ",
+3400781740,"Winslow township, Camden County, New Jersey",3173,"$67,158 ",
+3400782450,"Woodlynne borough, Camden County, New Jersey",11526,N/A,
+3400902320,"Avalon borough, Cape May County, New Jersey",10886,"$85,855 ",
+3400910270,"Cape May city, Cape May County, New Jersey",11085,N/A,
+3400910330,"Cape May Point borough, Cape May County, New Jersey",38187,N/A,
+3400917560,"Dennis township, Cape May County, New Jersey",5964,"$86,301 ",
+3400941610,"Lower township, Cape May County, New Jersey",2713,"$49,692 ",
+3400945810,"Middle township, Cape May County, New Jersey",4085,"$59,660 ",
+3400953490,"North Wildwood city, Cape May County, New Jersey",9947,N/A,
+3400954360,"Ocean City city, Cape May County, New Jersey",8020,"$57,597 ",
+3400966390,"Sea Isle City city, Cape May County, New Jersey",14714,N/A,
+3400971010,"Stone Harbor borough, Cape May County, New Jersey",6287,"$68,188 ",
+3400974810,"Upper township, Cape May County, New Jersey",7239,"$79,972 ",
+3400978530,"West Cape May borough, Cape May County, New Jersey",7649,"$55,192 ",
+3400980210,"West Wildwood borough, Cape May County, New Jersey",14925,N/A,
+3400981170,"Wildwood city, Cape May County, New Jersey",5386,N/A,
+3400981200,"Wildwood Crest borough, Cape May County, New Jersey",7650,N/A,
+3400981890,"Woodbine borough, Cape May County, New Jersey",9767,N/A,
+3401107600,"Bridgeton city, Cumberland County, New Jersey",2972,"$32,464 ",
+3401114710,"Commercial township, Cumberland County, New Jersey",9750,N/A,
+3401116900,"Deerfield township, Cumberland County, New Jersey",5462,"$68,477 ",
+3401118220,"Downe township, Cumberland County, New Jersey",4962,"$43,902 ",
+3401122350,"Fairfield township, Cumberland County, New Jersey",3574,"$47,165 ",
+3401128170,"Greenwich township, Cumberland County, New Jersey",14667,N/A,
+3401133120,"Hopewell township, Cumberland County, New Jersey",6946,"$62,739 ",
+3401139450,"Lawrence township, Cumberland County, New Jersey",7908,"$64,628 ",
+3401144580,"Maurice River township, Cumberland County, New Jersey",11370,N/A,
+3401146680,"Millville city, Cumberland County, New Jersey",4664,"$47,244 ",
+3401167020,"Shiloh borough, Cumberland County, New Jersey",22919,N/A,
+3401171160,"Stow Creek township, Cumberland County, New Jersey",7316,"$69,375 ",
+3401174870,"Upper Deerfield township, Cumberland County, New Jersey",8140,"$57,956 ",
+3401176070,"Vineland city, Cumberland County, New Jersey",2656,"$52,422 ",
+3401304695,"Belleville township, Essex County, New Jersey",2391,"$57,752 ",
+3401306260,"Bloomfield township, Essex County, New Jersey",3853,"$66,267 ",
+3401309250,"Caldwell borough, Essex County, New Jersey",9614,"$79,711 ",
+3401311200,"Cedar Grove township, Essex County, New Jersey",7525,"$88,594 ",
+3401313045,"City of Orange township, Essex County, New Jersey",1895,"$40,981 ",
+3401319390,"East Orange city, Essex County, New Jersey",2659,"$39,116 ",
+3401321840,"Essex Fells borough, Essex County, New Jersey",16619,"$172,159 ",172159
+3401322385,"Fairfield township, Essex County, New Jersey",16408,N/A,96981
+3401326610,"Glen Ridge borough, Essex County, New Jersey",11829,"$158,173 ",158173
+3401334450,"Irvington township, Essex County, New Jersey",2676,"$44,016 ",
+3401340890,"Livingston township, Essex County, New Jersey",7632,"$124,936 ",124936
+3401343800,"Maplewood township, Essex County, New Jersey",5524,"$101,912 ",101912
+3401346380,"Millburn township, Essex County, New Jersey",12560,"$169,678 ",169678
+3401347500,"Montclair township, Essex County, New Jersey",5970,"$92,873 ",
+3401351000,"Newark city, Essex County, New Jersey",1001,"$35,507 ",
+3401352620,"North Caldwell borough, Essex County, New Jersey",35493,N/A,162422
+3401353680,"Nutley township, Essex County, New Jersey",7519,"$76,994 ",
+3401364590,"Roseland borough, Essex County, New Jersey",13537,"$100,560 ",100560
+3401369274,"South Orange Village township, Essex County, New Jersey",5526,"$116,607 ",116607
+3401375815,"Verona township, Essex County, New Jersey",9121,"$91,818 ",
+3401378510,"West Caldwell township, Essex County, New Jersey",6313,"$98,218 ",98218
+3401379800,"West Orange township, Essex County, New Jersey",4924,"$89,034 ",
+3401513360,"Clayton borough, Gloucester County, New Jersey",7033,"$69,111 ",
+3401517710,"Deptford township, Gloucester County, New Jersey",3151,"$65,866 ",
+3401519180,"East Greenwich township, Gloucester County, New Jersey",12148,"$94,174 ",
+3401521060,"Elk township, Gloucester County, New Jersey",10127,"$69,508 ",
+3401524840,"Franklin township, Gloucester County, New Jersey",4720,"$75,994 ",
+3401526340,"Glassboro borough, Gloucester County, New Jersey",3688,"$53,708 ",
+3401528185,"Greenwich township, Gloucester County, New Jersey",7539,"$62,594 ",
+3401530180,"Harrison township, Gloucester County, New Jersey",9514,"$94,602 ",
+3401541160,"Logan township, Gloucester County, New Jersey",11086,"$88,780 ",
+3401543440,"Mantua township, Gloucester County, New Jersey",3796,"$80,146 ",
+3401547250,"Monroe township, Gloucester County, New Jersey",3878,"$65,911 ",
+3401549680,"National Park borough, Gloucester County, New Jersey",5699,"$68,750 ",
+3401551390,"Newfield borough, Gloucester County, New Jersey",4781,"$60,529 ",
+3401557150,"Paulsboro borough, Gloucester County, New Jersey",10367,N/A,
+3401559070,"Pitman borough, Gloucester County, New Jersey",6241,"$66,647 ",
+3401569030,"South Harrison township, Gloucester County, New Jersey",12207,"$119,931 ",119931
+3401571850,"Swedesboro borough, Gloucester County, New Jersey",9451,"$64,188 ",
+3401577180,"Washington township, Gloucester County, New Jersey",3897,"$80,567 ",
+3401578110,"Wenonah borough, Gloucester County, New Jersey",9442,"$104,871 ",104871
+3401578800,"West Deptford township, Gloucester County, New Jersey",4395,"$68,689 ",
+3401580120,"Westville borough, Gloucester County, New Jersey",4578,"$52,586 ",
+3401582120,"Woodbury city, Gloucester County, New Jersey",4604,"$53,564 ",
+3401582180,"Woodbury Heights borough, Gloucester County, New Jersey",10689,"$81,921 ",
+3401582840,"Woolwich township, Gloucester County, New Jersey",5163,"$109,588 ",109588
+3401703580,"Bayonne city, Hudson County, New Jersey",2626,"$50,423 ",
+3401719360,"East Newark borough, Hudson County, New Jersey",4751,"$50,347 ",
+3401728650,"Guttenberg town, Hudson County, New Jersey",6294,"$50,766 ",
+3401730210,"Harrison town, Hudson County, New Jersey",3106,"$49,596 ",
+3401732250,"Hoboken city, Hudson County, New Jersey",5770,"$105,710 ",105710
+3401736000,"Jersey City city, Hudson County, New Jersey",1635,"$51,826 ",
+3401736510,"Kearny town, Hudson County, New Jersey",3528,"$58,589 ",
+3401752470,"North Bergen township, Hudson County, New Jersey",3450,"$51,497 ",
+3401766570,"Secaucus town, Hudson County, New Jersey",8814,"$81,944 ",
+3401774630,"Union City city, Hudson County, New Jersey",2649,"$39,001 ",
+3401777930,"Weehawken township, Hudson County, New Jersey",9147,"$66,612 ",
+3401779610,"West New York town, Hudson County, New Jersey",2361,"$42,561 ",
+3401900550,"Alexandria township, Hunterdon County, New Jersey",11941,"$108,125 ",108125
+3401905650,"Bethlehem township, Hunterdon County, New Jersey",19523,N/A,125966
+3401906370,"Bloomsbury borough, Hunterdon County, New Jersey",14981,"$102,935 ",102935
+3401909280,"Califon borough, Hunterdon County, New Jersey",8248,"$98,828 ",98828
+3401913720,"Clinton town, Hunterdon County, New Jersey",12904,N/A,
+3401913750,"Clinton township, Hunterdon County, New Jersey",8592,"$116,910 ",116910
+3401917170,"Delaware township, Hunterdon County, New Jersey",11833,"$93,586 ",
+3401918820,"East Amwell township, Hunterdon County, New Jersey",18764,N/A,109893
+3401923700,"Flemington borough, Hunterdon County, New Jersey",8335,N/A,
+3401924870,"Franklin township, Hunterdon County, New Jersey",20825,N/A,105114
+3401925350,"Frenchtown borough, Hunterdon County, New Jersey",11162,N/A,
+3401926550,"Glen Gardner borough, Hunterdon County, New Jersey",15134,N/A,
+3401929460,"Hampton borough, Hunterdon County, New Jersey",11094,N/A,
+3401931320,"High Bridge borough, Hunterdon County, New Jersey",13373,N/A,
+3401932460,"Holland township, Hunterdon County, New Jersey",12389,"$86,641 ",
+3401937065,"Kingwood township, Hunterdon County, New Jersey",10907,"$98,791 ",98791
+3401938610,"Lambertville city, Hunterdon County, New Jersey",9479,"$73,561 ",
+3401939630,"Lebanon borough, Hunterdon County, New Jersey",5251,"$69,643 ",
+3401939660,"Lebanon township, Hunterdon County, New Jersey",23490,N/A,97974
+3401946260,"Milford borough, Hunterdon County, New Jersey",8613,"$74,013 ",
+3401961920,"Raritan township, Hunterdon County, New Jersey",7607,"$114,118 ",114118
+3401962250,"Readington township, Hunterdon County, New Jersey",7075,"$118,465 ",118465
+3401970980,"Stockton borough, Hunterdon County, New Jersey",11738,N/A,
+3401972510,"Tewksbury township, Hunterdon County, New Jersey",18307,"$149,899 ",149899
+3401974420,"Union township, Hunterdon County, New Jersey",15460,"$110,673 ",110673
+3401978230,"West Amwell township, Hunterdon County, New Jersey",13343,"$102,083 ",102083
+3402119780,"East Windsor township, Mercer County, New Jersey",3981,"$86,070 ",
+3402122185,"Ewing township, Mercer County, New Jersey",3669,"$70,576 ",
+3402129310,"Hamilton township, Mercer County, New Jersey",2119,"$72,052 ",
+3402131620,"Hightstown borough, Mercer County, New Jersey",6022,"$64,390 ",
+3402133150,"Hopewell borough, Mercer County, New Jersey",18450,N/A,116250
+3402133180,"Hopewell township, Mercer County, New Jersey",13448,"$127,955 ",127955
+3402139510,"Lawrence township, Mercer County, New Jersey",5905,"$88,082 ",
+3402157600,"Pennington borough, Mercer County, New Jersey",17728,N/A,110179
+3402160900,"Princeton borough, Mercer County, New Jersey",16150,N/A,106551
+3402160915,"Princeton township, Mercer County, New Jersey",9031,"$105,662 ",105662
+3402163850,"Robbinsville township, Mercer County, New Jersey",14556,"$100,417 ",100417
+3402174000,"Trenton city, Mercer County, New Jersey",2027,"$35,372 ",
+3402180240,"West Windsor township, Mercer County, New Jersey",7119,"$131,550 ",131550
+3402310750,"Carteret borough, Middlesex County, New Jersey",5526,"$55,379 ",
+3402315550,"Cranbury township, Middlesex County, New Jersey",20859,N/A,134375
+3402318490,"Dunellen borough, Middlesex County, New Jersey",8245,"$63,667 ",
+3402319000,"East Brunswick township, Middlesex County, New Jersey",4186,"$101,283 ",101283
+3402320230,"Edison township, Middlesex County, New Jersey",2382,"$83,891 ",
+3402330840,"Helmetta borough, Middlesex County, New Jersey",8353,"$75,588 ",
+3402331470,"Highland Park borough, Middlesex County, New Jersey",6357,"$71,307 ",
+3402334890,"Jamesburg borough, Middlesex County, New Jersey",13885,N/A,
+3402345690,"Metuchen borough, Middlesex County, New Jersey",7790,"$88,864 ",
+3402345900,"Middlesex borough, Middlesex County, New Jersey",5935,"$79,132 ",
+3402346620,"Milltown borough, Middlesex County, New Jersey",15649,N/A,
+3402347280,"Monroe township, Middlesex County, New Jersey",3827,"$72,421 ",
+3402351210,"New Brunswick city, Middlesex County, New Jersey",2021,"$45,645 ",
+3402352560,"North Brunswick township, Middlesex County, New Jersey",4405,"$78,405 ",
+3402354705,"Old Bridge township, Middlesex County, New Jersey",2384,"$83,531 ",
+3402358200,"Perth Amboy city, Middlesex County, New Jersey",3765,"$47,782 ",
+3402359010,"Piscataway township, Middlesex County, New Jersey",3123,"$85,157 ",
+3402359280,"Plainsboro township, Middlesex County, New Jersey",3604,"$86,014 ",
+3402365790,"Sayreville borough, Middlesex County, New Jersey",3639,"$72,213 ",
+3402368550,"South Amboy city, Middlesex County, New Jersey",5579,"$54,375 ",
+3402368790,"South Brunswick township, Middlesex County, New Jersey",4266,"$100,969 ",100969
+3402369390,"South Plainfield borough, Middlesex County, New Jersey",3436,"$89,573 ",
+3402369420,"South River borough, Middlesex County, New Jersey",6941,"$63,590 ",
+3402369810,"Spotswood borough, Middlesex County, New Jersey",7532,"$64,736 ",
+3402382000,"Woodbridge township, Middlesex County, New Jersey",1705,"$77,283 ",
+3402500070,"Aberdeen township, Monmouth County, New Jersey",4888,"$86,675 ",
+3402500730,"Allenhurst borough, Monmouth County, New Jersey",13128,N/A,
+3402500760,"Allentown borough, Monmouth County, New Jersey",7601,"$81,083 ",
+3402501960,"Asbury Park city, Monmouth County, New Jersey",2458,"$30,923 ",
+3402502110,"Atlantic Highlands borough, Monmouth County, New Jersey",18012,N/A,
+3402502440,"Avon-by-the-Sea borough, Monmouth County, New Jersey",11557,"$87,650 ",
+3402504930,"Belmar borough, Monmouth County, New Jersey",5319,"$56,701 ",
+3402506970,"Bradley Beach borough, Monmouth County, New Jersey",6620,"$62,925 ",
+3402507750,"Brielle borough, Monmouth County, New Jersey",8721,"$96,700 ",96700
+3402514560,"Colts Neck township, Monmouth County, New Jersey",15892,"$170,038 ",170038
+3402516660,"Deal borough, Monmouth County, New Jersey",28527,N/A,
+3402519840,"Eatontown borough, Monmouth County, New Jersey",7631,"$56,845 ",
+3402521570,"Englishtown borough, Monmouth County, New Jersey",7231,"$67,778 ",
+3402522440,"Fair Haven borough, Monmouth County, New Jersey",15035,"$107,305 ",107305
+3402522950,"Farmingdale borough, Monmouth County, New Jersey",4606,"$62,563 ",
+3402525200,"Freehold borough, Monmouth County, New Jersey",4776,"$56,890 ",
+3402525230,"Freehold township, Monmouth County, New Jersey",6149,"$91,083 ",
+3402530690,"Hazlet township, Monmouth County, New Jersey",5204,"$85,545 ",
+3402531500,"Highlands borough, Monmouth County, New Jersey",13007,N/A,
+3402532640,"Holmdel township, Monmouth County, New Jersey",9914,"$138,263 ",138263
+3402533300,"Howell township, Monmouth County, New Jersey",3997,"$88,709 ",
+3402534200,"Interlaken borough, Monmouth County, New Jersey",13823,"$116,719 ",116719
+3402536480,"Keansburg borough, Monmouth County, New Jersey",11066,N/A,
+3402536810,"Keyport borough, Monmouth County, New Jersey",7401,"$55,466 ",
+3402537560,"Lake Como borough, Monmouth County, New Jersey",10948,"$77,813 ",
+3402540770,"Little Silver borough, Monmouth County, New Jersey",24759,N/A,149659
+3402541010,"Loch Arbour village, Monmouth County, New Jersey",65752,N/A,116250
+3402541310,"Long Branch city, Monmouth County, New Jersey",2981,"$52,456 ",
+3402542990,"Manalapan township, Monmouth County, New Jersey",4081,"$101,528 ",101528
+3402543050,"Manasquan borough, Monmouth County, New Jersey",19144,N/A,
+3402544070,"Marlboro township, Monmouth County, New Jersey",4779,"$129,158 ",129158
+3402544520,"Matawan borough, Monmouth County, New Jersey",6469,"$63,012 ",
+3402545990,"Middletown township, Monmouth County, New Jersey",2595,"$94,549 ",
+3402546560,"Millstone township, Monmouth County, New Jersey",19708,N/A,123846
+3402547130,"Monmouth Beach borough, Monmouth County, New Jersey",27957,N/A,103750
+3402549890,"Neptune township, Monmouth County, New Jersey",4197,"$58,178 ",
+3402549920,"Neptune City borough, Monmouth County, New Jersey",13648,N/A,
+3402554270,"Ocean township, Monmouth County, New Jersey",4390,"$79,030 ",
+3402554570,"Oceanport borough, Monmouth County, New Jersey",12843,"$91,979 ",
+3402562430,"Red Bank borough, Monmouth County, New Jersey",7687,"$62,122 ",
+3402564410,"Roosevelt borough, Monmouth County, New Jersey",4706,"$87,105 ",
+3402565130,"Rumson borough, Monmouth County, New Jersey",14821,"$131,875 ",131875
+3402566240,"Sea Bright borough, Monmouth County, New Jersey",11934,N/A,
+3402566330,"Sea Girt borough, Monmouth County, New Jersey",14799,N/A,
+3402567350,"Shrewsbury borough, Monmouth County, New Jersey",19180,N/A,104063
+3402567365,"Shrewsbury township, Monmouth County, New Jersey",3212,"$50,699 ",
+3402570110,"Spring Lake borough, Monmouth County, New Jersey",19825,N/A,107636
+3402570140,"Spring Lake Heights borough, Monmouth County, New Jersey",5211,"$73,878 ",
+3402573020,"Tinton Falls borough, Monmouth County, New Jersey",3212,"$81,549 ",
+3402574540,"Union Beach borough, Monmouth County, New Jersey",8113,"$59,507 ",
+3402574900,"Upper Freehold township, Monmouth County, New Jersey",14117,"$107,308 ",107308
+3402576460,"Wall township, Monmouth County, New Jersey",6154,"$91,063 ",
+3402579310,"West Long Branch borough, Monmouth County, New Jersey",16711,N/A,
+3402706610,"Boonton town, Morris County, New Jersey",7703,"$79,231 ",
+3402706640,"Boonton township, Morris County, New Jersey",21172,N/A,108093
+3402709040,"Butler borough, Morris County, New Jersey",6008,"$78,812 ",
+3402712100,"Chatham borough, Morris County, New Jersey",14488,"$136,827 ",136827
+3402712130,"Chatham township, Morris County, New Jersey",14988,"$132,411 ",132411
+3402712580,"Chester borough, Morris County, New Jersey",14359,"$96,250 ",96250
+3402712610,"Chester township, Morris County, New Jersey",14142,"$159,615 ",159615
+3402717650,"Denville township, Morris County, New Jersey",8429,"$103,799 ",103799
+3402718070,"Dover town, Morris County, New Jersey",3197,"$57,288 ",
+3402719210,"East Hanover township, Morris County, New Jersey",13431,"$111,429 ",111429
+3402723910,"Florham Park borough, Morris County, New Jersey",9009,"$105,500 ",105500
+3402729550,"Hanover township, Morris County, New Jersey",6719,"$99,607 ",99607
+3402729700,"Harding township, Morris County, New Jersey",26021,"$176,917 ",176917
+3402734980,"Jefferson township, Morris County, New Jersey",5531,"$92,686 ",
+3402737110,"Kinnelon borough, Morris County, New Jersey",14755,"$138,405 ",138405
+3402740290,"Lincoln Park borough, Morris County, New Jersey",5633,"$90,680 ",
+3402741362,"Long Hill township, Morris County, New Jersey",12270,"$116,905 ",116905
+3402742510,"Madison borough, Morris County, New Jersey",9981,"$103,969 ",103969
+3402745330,"Mendham borough, Morris County, New Jersey",25835,N/A,129500
+3402745360,"Mendham township, Morris County, New Jersey",46593,N/A,183085
+3402746860,"Mine Hill township, Morris County, New Jersey",9049,"$100,111 ",100111
+3402747670,"Montville township, Morris County, New Jersey",12171,"$118,750 ",118750
+3402748090,"Morris township, Morris County, New Jersey",7867,"$127,062 ",127062
+3402748210,"Morris Plains borough, Morris County, New Jersey",10111,"$101,848 ",101848
+3402748300,"Morristown town, Morris County, New Jersey",5129,"$61,612 ",
+3402748480,"Mountain Lakes borough, Morris County, New Jersey",31135,N/A,181938
+3402748690,"Mount Arlington borough, Morris County, New Jersey",10360,"$85,049 ",
+3402749080,"Mount Olive township, Morris County, New Jersey",5337,"$74,809 ",
+3402750130,"Netcong borough, Morris County, New Jersey",8232,"$63,893 ",
+3402756460,"Parsippany-Troy Hills township, Morris County, New Jersey",3205,"$84,487 ",
+3402758110,"Pequannock township, Morris County, New Jersey",8956,"$88,668 ",
+3402761890,"Randolph township, Morris County, New Jersey",6847,"$124,192 ",124192
+3402763300,"Riverdale borough, Morris County, New Jersey",5386,"$60,842 ",
+3402764050,"Rockaway borough, Morris County, New Jersey",18007,N/A,
+3402764080,"Rockaway township, Morris County, New Jersey",4843,"$94,754 ",
+3402764980,"Roxbury township, Morris County, New Jersey",6017,"$97,705 ",97705
+3402775890,"Victory Gardens borough, Morris County, New Jersey",5577,"$52,407 ",
+3402777240,"Washington township, Morris County, New Jersey",4539,"$111,477 ",111477
+3402780390,"Wharton borough, Morris County, New Jersey",7627,"$72,457 ",
+3402903050,"Barnegat township, Ocean County, New Jersey",3328,"$62,414 ",
+3402903130,"Barnegat Light borough, Ocean County, New Jersey",22730,N/A,
+3402903520,"Bay Head borough, Ocean County, New Jersey",21521,N/A,
+3402903940,"Beach Haven borough, Ocean County, New Jersey",5765,"$72,546 ",
+3402904180,"Beachwood borough, Ocean County, New Jersey",5737,"$77,183 ",
+3402905305,"Berkeley township, Ocean County, New Jersey",1842,"$42,185 ",
+3402907420,"Brick township, Ocean County, New Jersey",2708,"$66,844 ",
+3402918670,"Eagleswood township, Ocean County, New Jersey",4972,"$59,457 ",
+3402930390,"Harvey Cedars borough, Ocean County, New Jersey",42325,N/A,
+3402934530,"Island Heights borough, Ocean County, New Jersey",6845,"$81,900 ",
+3402934680,"Jackson township, Ocean County, New Jersey",3277,"$82,977 ",
+3402937380,"Lacey township, Ocean County, New Jersey",3016,"$73,750 ",
+3402937770,"Lakehurst borough, Ocean County, New Jersey",7893,"$64,327 ",
+3402938550,"Lakewood township, Ocean County, New Jersey",2074,"$42,618 ",
+3402939390,"Lavallette borough, Ocean County, New Jersey",4549,"$60,194 ",
+3402940560,"Little Egg Harbor township, Ocean County, New Jersey",3662,"$57,176 ",
+3402941250,"Long Beach township, Ocean County, New Jersey",9503,"$68,113 ",
+3402943140,"Manchester township, Ocean County, New Jersey",1303,"$37,397 ",
+3402943380,"Mantoloking borough, Ocean County, New Jersey",52075,N/A,119250
+3402954300,"Ocean township, Ocean County, New Jersey",5375,"$75,633 ",
+3402954450,"Ocean Gate borough, Ocean County, New Jersey",9376,"$64,028 ",
+3402958590,"Pine Beach borough, Ocean County, New Jersey",10939,"$77,798 ",
+3402959790,"Plumsted township, Ocean County, New Jersey",9320,"$77,788 ",
+3402959880,"Point Pleasant borough, Ocean County, New Jersey",4363,"$75,737 ",
+3402959910,"Point Pleasant Beach borough, Ocean County, New Jersey",4815,"$55,946 ",
+3402966450,"Seaside Heights borough, Ocean County, New Jersey",16688,N/A,
+3402966480,"Seaside Park borough, Ocean County, New Jersey",12630,N/A,
+3402967110,"Ship Bottom borough, Ocean County, New Jersey",14383,N/A,
+3402969510,"South Toms River borough, Ocean County, New Jersey",7084,"$65,208 ",
+3402970320,"Stafford township, Ocean County, New Jersey",3860,"$68,141 ",
+3402971640,"Surf City borough, Ocean County, New Jersey",14133,N/A,
+3402973125,"Toms River township, Ocean County, New Jersey",2596,"$70,431 ",
+3402974210,"Tuckerton borough, Ocean County, New Jersey",4856,"$54,355 ",
+3403106340,"Bloomingdale borough, Passaic County, New Jersey",8512,"$88,532 ",
+3403113690,"Clifton city, Passaic County, New Jersey",2855,"$60,412 ",
+3403129070,"Haledon borough, Passaic County, New Jersey",15419,N/A,
+3403130570,"Hawthorne borough, Passaic County, New Jersey",7381,"$71,684 ",
+3403140620,"Little Falls township, Passaic County, New Jersey",8163,"$77,791 ",
+3403153040,"North Haledon borough, Passaic County, New Jersey",9170,"$97,500 ",97500
+3403156550,"Passaic city, Passaic County, New Jersey",1970,"$31,022 ",
+3403157000,"Paterson city, Passaic County, New Jersey",1387,"$33,858 ",
+3403160090,"Pompton Lakes borough, Passaic County, New Jersey",7738,"$89,022 ",
+3403161170,"Prospect Park borough, Passaic County, New Jersey",5714,"$67,689 ",
+3403163150,"Ringwood borough, Passaic County, New Jersey",9373,"$101,039 ",101039
+3403173140,"Totowa borough, Passaic County, New Jersey",10841,N/A,
+3403176730,"Wanaque borough, Passaic County, New Jersey",7804,"$82,641 ",
+3403177840,"Wayne township, Passaic County, New Jersey",4045,"$98,627 ",98627
+3403179460,"West Milford township, Passaic County, New Jersey",4649,"$90,680 ",
+3403182423,"Woodland Park borough, Passaic County, New Jersey",10412,N/A,
+3403300880,"Alloway township, Salem County, New Jersey",7054,"$86,434 ",
+3403310610,"Carneys Point township, Salem County, New Jersey",5171,"$51,739 ",
+3403321240,"Elmer borough, Salem County, New Jersey",3130,"$67,500 ",
+3403321330,"Elsinboro township, Salem County, New Jersey",9987,N/A,
+3403341640,"Lower Alloways Creek township, Salem County, New Jersey",1646,"$65,947 ",
+3403343200,"Mannington township, Salem County, New Jersey",12229,N/A,
+3403354810,"Oldmans township, Salem County, New Jersey",5774,"$65,660 ",
+3403357750,"Penns Grove borough, Salem County, New Jersey",11112,N/A,
+3403357870,"Pennsville township, Salem County, New Jersey",5062,"$59,875 ",
+3403358530,"Pilesgrove township, Salem County, New Jersey",13858,N/A,
+3403359130,"Pittsgrove township, Salem County, New Jersey",6038,"$73,508 ",
+3403361470,"Quinton township, Salem County, New Jersey",8906,"$63,006 ",
+3403365490,"Salem city, Salem County, New Jersey",2246,"$28,397 ",
+3403375110,"Upper Pittsgrove township, Salem County, New Jersey",9611,"$71,938 ",
+3403382720,"Woodstown borough, Salem County, New Jersey",10696,N/A,
+3403504450,"Bedminster township, Somerset County, New Jersey",13912,"$100,151 ",100151
+3403505560,"Bernards township, Somerset County, New Jersey",5253,"$123,470 ",123470
+3403505590,"Bernardsville borough, Somerset County, New Jersey",16545,"$139,340 ",139340
+3403506790,"Bound Brook borough, Somerset County, New Jersey",5853,"$69,657 ",
+3403507180,"Branchburg township, Somerset County, New Jersey",7649,"$116,759 ",116759
+3403507720,"Bridgewater township, Somerset County, New Jersey",3341,"$105,990 ",105990
+3403522890,"Far Hills borough, Somerset County, New Jersey",16607,N/A,110625
+3403524900,"Franklin township, Somerset County, New Jersey",2199,"$88,118 ",
+3403527510,"Green Brook township, Somerset County, New Jersey",15892,"$115,549 ",115549
+3403531890,"Hillsborough township, Somerset County, New Jersey",4252,"$102,834 ",102834
+3403543620,"Manville borough, Somerset County, New Jersey",4832,"$54,397 ",
+3403546590,"Millstone borough, Somerset County, New Jersey",14322,"$95,625 ",
+3403547580,"Montgomery township, Somerset County, New Jersey",9810,"$145,827 ",145827
+3403553280,"North Plainfield borough, Somerset County, New Jersey",2980,"$64,492 ",
+3403557300,"Peapack and Gladstone borough, Somerset County, New Jersey",13657,"$121,382 ",121382
+3403561980,"Raritan borough, Somerset County, New Jersey",5406,"$70,979 ",
+3403564320,"Rocky Hill borough, Somerset County, New Jersey",25825,N/A,97656
+3403568460,"Somerville borough, Somerset County, New Jersey",5878,"$68,559 ",
+3403568730,"South Bound Brook borough, Somerset County, New Jersey",10049,"$70,034 ",
+3403576940,"Warren township, Somerset County, New Jersey",20332,N/A,131329
+3403577600,"Watchung borough, Somerset County, New Jersey",21605,N/A,100000
+3403701330,"Andover borough, Sussex County, New Jersey",23112,N/A,
+3403701360,"Andover township, Sussex County, New Jersey",7083,"$91,500 ",
+3403707300,"Branchville borough, Sussex County, New Jersey",31972,N/A,
+3403709160,"Byram township, Sussex County, New Jersey",6919,"$102,904 ",102904
+3403724810,"Frankford township, Sussex County, New Jersey",6085,"$98,004 ",98004
+3403724930,"Franklin borough, Sussex County, New Jersey",9000,"$64,362 ",
+3403725140,"Fredon township, Sussex County, New Jersey",11949,"$109,130 ",109130
+3403727420,"Green township, Sussex County, New Jersey",10514,"$98,125 ",98125
+3403729220,"Hamburg borough, Sussex County, New Jersey",6128,"$60,558 ",
+3403729490,"Hampton township, Sussex County, New Jersey",10999,"$85,318 ",
+3403729850,"Hardyston township, Sussex County, New Jersey",5172,"$80,739 ",
+3403732910,"Hopatcong borough, Sussex County, New Jersey",4573,"$83,814 ",
+3403737440,"Lafayette township, Sussex County, New Jersey",9397,"$89,219 ",
+3403747430,"Montague township, Sussex County, New Jersey",5058,"$62,736 ",
+3403751930,"Newton town, Sussex County, New Jersey",6277,"$44,109 ",
+3403754660,"Ogdensburg borough, Sussex County, New Jersey",7737,"$80,648 ",
+3403765700,"Sandyston township, Sussex County, New Jersey",10711,N/A,
+3403769690,"Sparta township, Sussex County, New Jersey",6249,"$107,562 ",107562
+3403770380,"Stanhope borough, Sussex County, New Jersey",9419,"$73,024 ",
+3403770890,"Stillwater township, Sussex County, New Jersey",10097,"$81,926 ",
+3403771670,"Sussex borough, Sussex County, New Jersey",8602,N/A,
+3403775740,"Vernon township, Sussex County, New Jersey",5002,"$79,450 ",
+3403776640,"Walpack township, Sussex County, New Jersey",206334,N/A,105625
+3403776790,"Wantage township, Sussex County, New Jersey",7371,"$78,275 ",
+3403905320,"Berkeley Heights township, Union County, New Jersey",9754,"$129,824 ",129824
+3403913150,"Clark township, Union County, New Jersey",5527,"$78,044 ",
+3403915640,"Cranford township, Union County, New Jersey",4838,"$104,315 ",104315
+3403921000,"Elizabeth city, Union County, New Jersey",1645,"$43,707 ",
+3403922860,"Fanwood borough, Union County, New Jersey",11427,"$115,382 ",115382
+3403925800,"Garwood borough, Union County, New Jersey",7237,"$67,344 ",
+3403931980,"Hillside township, Union County, New Jersey",5364,"$60,602 ",
+3403936690,"Kenilworth borough, Union County, New Jersey",8823,"$68,700 ",
+3403940350,"Linden city, Union County, New Jersey",2172,"$56,467 ",
+3403948510,"Mountainside borough, Union County, New Jersey",20112,N/A,126287
+3403951810,"New Providence borough, Union County, New Jersey",12188,"$111,858 ",111858
+3403959190,"Plainfield city, Union County, New Jersey",3275,"$50,102 ",
+3403961530,"Rahway city, Union County, New Jersey",5557,"$61,751 ",
+3403964620,"Roselle borough, Union County, New Jersey",3771,"$60,558 ",
+3403964650,"Roselle Park borough, Union County, New Jersey",5451,"$57,931 ",
+3403966060,"Scotch Plains township, Union County, New Jersey",2421,"$101,702 ",101702
+3403970020,"Springfield township, Union County, New Jersey",10047,"$86,458 ",
+3403971430,"Summit city, Union County, New Jersey",12316,"$111,989 ",111989
+3403974480,"Union township, Union County, New Jersey",3995,"$72,181 ",
+3403979040,"Westfield town, Union County, New Jersey",9816,"$128,418 ",128418
+3403981650,"Winfield township, Union County, New Jersey",14796,N/A,
+3404100670,"Allamuchy township, Warren County, New Jersey",7688,"$86,161 ",
+3404101030,"Alpha borough, Warren County, New Jersey",11985,N/A,
+3404104990,"Belvidere town, Warren County, New Jersey",9484,N/A,
+3404106160,"Blairstown township, Warren County, New Jersey",8549,"$80,436 ",
+3404124960,"Franklin township, Warren County, New Jersey",10054,"$84,718 ",
+3404125320,"Frelinghuysen township, Warren County, New Jersey",7191,"$92,500 ",
+3404128260,"Greenwich township, Warren County, New Jersey",16046,N/A,105417
+3404128710,"Hackettstown town, Warren County, New Jersey",5817,"$55,929 ",
+3404129820,"Hardwick township, Warren County, New Jersey",8506,"$89,000 ",
+3404130090,"Harmony township, Warren County, New Jersey",11520,"$80,536 ",
+3404133060,"Hope township, Warren County, New Jersey",5750,"$76,029 ",
+3404133930,"Independence township, Warren County, New Jersey",5584,"$84,028 ",
+3404137320,"Knowlton township, Warren County, New Jersey",5211,N/A,
+3404140110,"Liberty township, Warren County, New Jersey",9940,"$77,679 ",
+3404141490,"Lopatcong township, Warren County, New Jersey",8034,"$76,429 ",
+3404143320,"Mansfield township, Warren County, New Jersey",9621,"$71,847 ",
+3404155530,"Oxford township, Warren County, New Jersey",11484,N/A,
+3404158350,"Phillipsburg town, Warren County, New Jersey",3035,"$43,125 ",
+3404159820,"Pohatcong township, Warren County, New Jersey",10022,"$70,577 ",
+3404177270,"Washington borough, Warren County, New Jersey",14854,N/A,
+3404177300,"Washington township, Warren County, New Jersey",7360,"$88,064 ",
+3404180570,"White township, Warren County, New Jersey",7601,"$63,462 ",
